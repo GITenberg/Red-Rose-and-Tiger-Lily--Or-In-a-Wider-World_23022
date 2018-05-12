@@ -1,0 +1,39 @@
+_repo: Red-Rose-and-Tiger-Lily--Or-In-a-Wider-World_23022
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23022-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Mrs. L. T.
+    - Meade, Lillie
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Meade, Elizabeth Thomasina
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Stepfamilies -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Red Rose and Tiger Lily; Or, In a Wider World
+url: http://www.gutenberg.org/ebooks/23022
